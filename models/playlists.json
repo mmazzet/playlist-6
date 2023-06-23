@@ -1,0 +1,15 @@
+{
+  "file": "./models/playlists.json",
+  "playlists": [
+    {
+      "title": "Homer's First Playlist",
+      "userid": "465dbb46-8288-4c44-90d6-50adfc856af2",
+      "_id": "340831dd-2050-493c-b044-86d327ab2dea"
+    },
+    {
+      "title": "Homer's Second Playlist",
+      "userid": "465dbb46-8288-4c44-90d6-50adfc856af2",
+      "_id": "bed2db15-6712-4a7f-91ff-b7f6f1056385"
+    }
+  ]
+}

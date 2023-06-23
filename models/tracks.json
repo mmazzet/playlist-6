@@ -1,0 +1,68 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "Track 1",
+      "artist": "me",
+      "duration": 2,
+      "_id": "ebef293c-58ea-4a52-97f9-a2a24bf4f74c",
+      "playlistid": "340831dd-2050-493c-b044-86d327ab2dea"
+    },
+    {
+      "title": "Track 2",
+      "artist": "me",
+      "duration": 5,
+      "_id": "a3fe8a7d-33d4-4162-9fa7-912498ce12da",
+      "playlistid": "340831dd-2050-493c-b044-86d327ab2dea"
+    },
+    {
+      "title": "Track 3 ",
+      "artist": "me ",
+      "duration": 1,
+      "_id": "8ae64621-709d-4206-870d-a9830709c119",
+      "playlistid": "340831dd-2050-493c-b044-86d327ab2dea"
+    },
+    {
+      "title": "Track 4",
+      "artist": "me",
+      "duration": 0,
+      "_id": "816c5332-4791-4c40-981e-165b38f11583",
+      "playlistid": "340831dd-2050-493c-b044-86d327ab2dea"
+    },
+    {
+      "title": "Track 5",
+      "artist": "me",
+      "duration": 8,
+      "_id": "4eed9f00-3bd7-4211-a98b-064d579328f5",
+      "playlistid": "340831dd-2050-493c-b044-86d327ab2dea"
+    },
+    {
+      "title": "Song 1",
+      "artist": "Blur",
+      "duration": 5,
+      "_id": "d5762bce-34cd-4574-aee6-1b47666528d8",
+      "playlistid": "bed2db15-6712-4a7f-91ff-b7f6f1056385"
+    },
+    {
+      "title": "Song 2",
+      "artist": "Blur",
+      "duration": 4,
+      "_id": "c2b64e1d-ae6d-465a-bd2c-d386f0d6c336",
+      "playlistid": "bed2db15-6712-4a7f-91ff-b7f6f1056385"
+    },
+    {
+      "title": "Song 3",
+      "artist": "Blur",
+      "duration": 6,
+      "_id": "74979b02-f5ff-40f7-a421-29e55ebe3221",
+      "playlistid": "bed2db15-6712-4a7f-91ff-b7f6f1056385"
+    },
+    {
+      "title": "Song 4",
+      "artist": "Blur",
+      "duration": 3,
+      "_id": "6119a802-be5c-47ac-adc8-a17833704bf1",
+      "playlistid": "bed2db15-6712-4a7f-91ff-b7f6f1056385"
+    }
+  ]
+}
